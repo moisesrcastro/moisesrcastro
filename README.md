@@ -1,4 +1,4 @@
-## Oi eu sou o Moisés, estudante de Data Science!
+## Oi eu sou o Moisés, Cientista de Dados!
 <div align="center">
   <a href="https://github.com/moisesrcastro">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=moisesrcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
